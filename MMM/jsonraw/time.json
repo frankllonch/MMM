@@ -1,0 +1,326 @@
+[
+  {
+    "ID_Date": 202201,
+    "Dias_mes": 31,
+    "Dia_inicio_mes": 5,
+    "Dia_findemes": 7,
+    "working_days": 21,
+    "Dias_fines_semana": 10,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202202,
+    "Dias_mes": 28,
+    "Dia_inicio_mes": 1,
+    "Dia_findemes": 7,
+    "working_days": 20,
+    "Dias_fines_semana": 8,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202203,
+    "Dias_mes": 31,
+    "Dia_inicio_mes": 1,
+    "Dia_findemes": 3,
+    "working_days": 23,
+    "Dias_fines_semana": 8,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202204,
+    "Dias_mes": 30,
+    "Dia_inicio_mes": 4,
+    "Dia_findemes": 5,
+    "working_days": 22,
+    "Dias_fines_semana": 8,
+    "Easterweek": 1
+  },
+  {
+    "ID_Date": 202205,
+    "Dias_mes": 31,
+    "Dia_inicio_mes": 6,
+    "Dia_findemes": 1,
+    "working_days": 21,
+    "Dias_fines_semana": 10,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202206,
+    "Dias_mes": 30,
+    "Dia_inicio_mes": 2,
+    "Dia_findemes": 3,
+    "working_days": 22,
+    "Dias_fines_semana": 8,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202207,
+    "Dias_mes": 31,
+    "Dia_inicio_mes": 4,
+    "Dia_findemes": 6,
+    "working_days": 22,
+    "Dias_fines_semana": 9,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202208,
+    "Dias_mes": 31,
+    "Dia_inicio_mes": 7,
+    "Dia_findemes": 2,
+    "working_days": 22,
+    "Dias_fines_semana": 9,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202209,
+    "Dias_mes": 30,
+    "Dia_inicio_mes": 3,
+    "Dia_findemes": 4,
+    "working_days": 22,
+    "Dias_fines_semana": 8,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202210,
+    "Dias_mes": 31,
+    "Dia_inicio_mes": 5,
+    "Dia_findemes": 7,
+    "working_days": 21,
+    "Dias_fines_semana": 10,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202211,
+    "Dias_mes": 30,
+    "Dia_inicio_mes": 1,
+    "Dia_findemes": 2,
+    "working_days": 22,
+    "Dias_fines_semana": 8,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202212,
+    "Dias_mes": 31,
+    "Dia_inicio_mes": 3,
+    "Dia_findemes": 5,
+    "working_days": 23,
+    "Dias_fines_semana": 8,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202301,
+    "Dias_mes": 31,
+    "Dia_inicio_mes": 6,
+    "Dia_findemes": 1,
+    "working_days": 21,
+    "Dias_fines_semana": 10,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202302,
+    "Dias_mes": 28,
+    "Dia_inicio_mes": 2,
+    "Dia_findemes": 1,
+    "working_days": 20,
+    "Dias_fines_semana": 8,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202303,
+    "Dias_mes": 31,
+    "Dia_inicio_mes": 2,
+    "Dia_findemes": 4,
+    "working_days": 23,
+    "Dias_fines_semana": 8,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202304,
+    "Dias_mes": 30,
+    "Dia_inicio_mes": 5,
+    "Dia_findemes": 6,
+    "working_days": 21,
+    "Dias_fines_semana": 9,
+    "Easterweek": 1
+  },
+  {
+    "ID_Date": 202305,
+    "Dias_mes": 31,
+    "Dia_inicio_mes": 7,
+    "Dia_findemes": 2,
+    "working_days": 22,
+    "Dias_fines_semana": 9,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202306,
+    "Dias_mes": 30,
+    "Dia_inicio_mes": 3,
+    "Dia_findemes": 4,
+    "working_days": 22,
+    "Dias_fines_semana": 8,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202307,
+    "Dias_mes": 31,
+    "Dia_inicio_mes": 5,
+    "Dia_findemes": 7,
+    "working_days": 21,
+    "Dias_fines_semana": 10,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202308,
+    "Dias_mes": 31,
+    "Dia_inicio_mes": 1,
+    "Dia_findemes": 3,
+    "working_days": 23,
+    "Dias_fines_semana": 8,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202309,
+    "Dias_mes": 30,
+    "Dia_inicio_mes": 4,
+    "Dia_findemes": 5,
+    "working_days": 22,
+    "Dias_fines_semana": 8,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202310,
+    "Dias_mes": 31,
+    "Dia_inicio_mes": 6,
+    "Dia_findemes": 1,
+    "working_days": 21,
+    "Dias_fines_semana": 10,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202311,
+    "Dias_mes": 30,
+    "Dia_inicio_mes": 2,
+    "Dia_findemes": 3,
+    "working_days": 22,
+    "Dias_fines_semana": 8,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202312,
+    "Dias_mes": 31,
+    "Dia_inicio_mes": 4,
+    "Dia_findemes": 6,
+    "working_days": 22,
+    "Dias_fines_semana": 9,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202401,
+    "Dias_mes": 31,
+    "Dia_inicio_mes": 7,
+    "Dia_findemes": 2,
+    "working_days": 22,
+    "Dias_fines_semana": 9,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202402,
+    "Dias_mes": 28,
+    "Dia_inicio_mes": 3,
+    "Dia_findemes": 2,
+    "working_days": 20,
+    "Dias_fines_semana": 8,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202403,
+    "Dias_mes": 31,
+    "Dia_inicio_mes": 3,
+    "Dia_findemes": 5,
+    "working_days": 23,
+    "Dias_fines_semana": 8,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202404,
+    "Dias_mes": 30,
+    "Dia_inicio_mes": 6,
+    "Dia_findemes": 7,
+    "working_days": 20,
+    "Dias_fines_semana": 10,
+    "Easterweek": 1
+  },
+  {
+    "ID_Date": 202405,
+    "Dias_mes": 31,
+    "Dia_inicio_mes": 1,
+    "Dia_findemes": 3,
+    "working_days": 23,
+    "Dias_fines_semana": 8,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202406,
+    "Dias_mes": 30,
+    "Dia_inicio_mes": 4,
+    "Dia_findemes": 5,
+    "working_days": 22,
+    "Dias_fines_semana": 8,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202407,
+    "Dias_mes": 31,
+    "Dia_inicio_mes": 6,
+    "Dia_findemes": 1,
+    "working_days": 21,
+    "Dias_fines_semana": 10,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202408,
+    "Dias_mes": 31,
+    "Dia_inicio_mes": 2,
+    "Dia_findemes": 4,
+    "working_days": 23,
+    "Dias_fines_semana": 8,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202409,
+    "Dias_mes": 30,
+    "Dia_inicio_mes": 5,
+    "Dia_findemes": 6,
+    "working_days": 21,
+    "Dias_fines_semana": 9,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202410,
+    "Dias_mes": 31,
+    "Dia_inicio_mes": 2,
+    "Dia_findemes": 4,
+    "working_days": 23,
+    "Dias_fines_semana": 8,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202411,
+    "Dias_mes": 30,
+    "Dia_inicio_mes": 5,
+    "Dia_findemes": 5,
+    "working_days": 21,
+    "Dias_fines_semana": 9,
+    "Easterweek": 0
+  },
+  {
+    "ID_Date": 202412,
+    "Dias_mes": 31,
+    "Dia_inicio_mes": 7,
+    "Dia_findemes": 6,
+    "working_days": 22,
+    "Dias_fines_semana": 9,
+    "Easterweek": 0
+  }
+]
